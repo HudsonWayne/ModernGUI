@@ -5,3 +5,5 @@ import tkinter as tk
 from tkinter import filedialog
 import platform
 import psutil
+
+import screen_brightness_control as pct
