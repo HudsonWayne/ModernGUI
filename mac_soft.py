@@ -7,3 +7,5 @@ import platform
 import psutil
 
 import screen_brightness_control as pct
+
+from ctypes import cast, pointer
