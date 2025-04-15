@@ -26,3 +26,9 @@ import pyautogui
 
 import subprocess 
 import webbrowser as wb
+import random 
+
+root = Tk()
+root.title("mac-soft Tool")
+root.geometry("850x500+300+170")
+root.resizable(False, False)
