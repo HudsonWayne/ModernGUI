@@ -19,3 +19,7 @@ import requests
 import pytz
 
 from time import strftime
+
+from tkcalendar import *
+
+import pyautogui
