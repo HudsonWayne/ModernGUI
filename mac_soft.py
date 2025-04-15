@@ -8,4 +8,5 @@ import psutil
 
 import screen_brightness_control as pct
 
-from ctypes import cast, pointer
+from ctypes import cast, POINTER
+from comtypes import CLSCTX_ALL
